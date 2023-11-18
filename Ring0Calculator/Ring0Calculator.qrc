@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Ring0Calculator">
+        <file>img/kernel_10042426.png</file>
+        <file>img/kernel_10042426_50x50.png</file>
+        <file>sound/kenet-rez-unreal-super-hero.mp3</file>
+    </qresource>
+</RCC>
