@@ -6,3 +6,5 @@ Simple learning purpose User-mode and Kernel-mode Application that processing ta
 
 ### Commutication
 The communication between UM and KM using normal IRP and IOCTL
+
+##### (1/15/2024) Make this repo public access
